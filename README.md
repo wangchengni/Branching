@@ -1,6 +1,8 @@
 ## Git Cheat Sheet
 
+Reference for using git in team projects.
 Summary of Git commands.
+
 ## Basic Commands
 *`git init` -Initialize local Git repository
 *`git add .` -Add all files in and under current directory to git index, staging them for commit
