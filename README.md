@@ -16,5 +16,4 @@ to local repo with commit message "Message"
 *`git branch` -List of local git branches
 *`git brancg newBranch`- Create local branch `newBranch`
 *`git checkout newBranch` - Check out local branch `newBranch`
-
-##new new 
+*`git branch -M otherBranch` -Rename current branch to `otherBranch`
