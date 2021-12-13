@@ -1,6 +1,10 @@
 ## Git Cheat Sheet
 
-Personal reference for Git commands.
+
+
+Reference for using git in team projects.
+Summary of Git commands.
+ 
 
 ## Basic Commands
 *`git init` -Initialize local Git repository
@@ -13,6 +17,7 @@ to local repo with commit message "Message"
 *`git status` -display current status of local working irectory /repository
 *`git log`-list commit history
 *`git log --oneline` -list commit history, compact format
+<<<<<<< HEAD
 
 ### Branching Commands
 *`git branch` -List of local git branches
@@ -27,3 +32,5 @@ Url "remoteUrl"
 repository
 *`git push -u origin main` -Same, setting "origin main" as default for subsequent  
 `git push`
+=======
+>>>>>>> cd0bdd4e55704ec4c766f34bf070acf04ccd1212
