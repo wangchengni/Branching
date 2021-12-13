@@ -10,4 +10,11 @@ to local repo with commit message "Message"
 ### Information Commands
 *`git status` -display current status of local working irectory /repository
 *`git log`-list commit history
-*`git log --oneline` -list commit history, compact format 
+*`git log --oneline` -list commit history, compact format
+
+### Branching Commands
+*`git branch` -List of local git branches
+*`git brancg newBranch`- Create local branch `newBranch`
+*`git checkout newBranch` - Check out local branch `newBranch`
+
+##new new 
